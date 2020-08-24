@@ -106,3 +106,35 @@ class ViewController: UIViewController {
     }
     
 }
+
+// Code review from Lesson:
+/*
+ 
+ func changeTextLabel(with message: String){
+ 
+ let text = message
+ myLabel.text = text
+ myLabel.backgroundColor = UIColor.gray
+ mainImageView.image = UIImage(systemName: "mic")
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */
